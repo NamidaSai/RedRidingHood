@@ -1,6 +1,8 @@
 Little Red Riding Hood
 Charles Perrault
 
+CHAPTER ONE
+
 Once upon a time there lived in a certain village a little country girl, the prettiest creature who was ever seen. Her mother was excessively fond of her; and her grandmother doted on her still more. This good woman had a little red riding hood made for her. It suited the girl so extremely well that everybody called her Little Red Riding Hood.
 One day her mother, having made some cakes, said to her, "Go, my dear, and see how your grandmother is doing, for I hear she has been very ill. Take her a cake, and this little pot of butter."
 
@@ -28,32 +30,4 @@ The wolf pulled the bobbin, and the door opened, and then he immediately fell up
 
 Little Red Riding Hood, hearing the big voice of the wolf, was at first afraid; but believing her grandmother had a cold and was hoarse, answered, "It is your grandchild Little Red Riding Hood, who has brought you a cake and a little pot of butter mother sends you."
 
-The wolf cried out to her, softening his voice as much as he could, "Pull the bobbin, and the latch will go up."
-
-Little Red Riding Hood pulled the bobbin, and the door opened.
-
-The wolf, seeing her come in, said to her, hiding himself under the bedclothes, "Put the cake and the little pot of butter upon the stool, and come get into bed with me."
-
-Little Red Riding Hood took off her clothes and got into bed. She was greatly amazed to see how her grandmother looked in her nightclothes, and said to her, "Grandmother, what big arms you have!"
-
-"All the better to hug you with, my dear."
-
-"Grandmother, what big legs you have!"
-
-"All the better to run with, my child."
-
-"Grandmother, what big ears you have!"
-
-"All the better to hear with, my child."
-
-"Grandmother, what big eyes you have!"
-
-"All the better to see with, my child."
-
-"Grandmother, what big teeth you have got!"
-
-"All the better to eat you up with."
-
-And, saying these words, this wicked wolf fell upon Little Red Riding Hood, and ate her all up.
-
-Moral: Children, especially attractive, well bred young ladies, should never talk to strangers, for if they should do so, they may well provide dinner for a wolf. I say "wolf," but there are various kinds of wolves. There are also those who are charming, quiet, polite, unassuming, complacent, and sweet, who pursue young women at home and in the streets. And unfortunately, it is these gentle wolves who are the most dangerous ones of all.
+END OF CHAPTER ONE
