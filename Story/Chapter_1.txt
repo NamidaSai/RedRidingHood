@@ -1,6 +1,8 @@
 Little Red Riding Hood
 Charles Perrault
 
+CHAPTER ONE
+
 Once upon a time there lived in a certain village a little country girl, the prettiest creature who was ever seen. Her mother was excessively fond of her; and her grandmother doted on her still more. This good woman had a little red riding hood made for her. It suited the girl so extremely well that everybody called her Little Red Riding Hood.
 One day her mother, having made some cakes, said to her, "Go, my dear, and see how your grandmother is doing, for I hear she has been very ill. Take her a cake, and this little pot of butter."
 
@@ -28,3 +30,4 @@ The wolf pulled the bobbin, and the door opened, and then he immediately fell up
 
 Little Red Riding Hood, hearing the big voice of the wolf, was at first afraid; but believing her grandmother had a cold and was hoarse, answered, "It is your grandchild Little Red Riding Hood, who has brought you a cake and a little pot of butter mother sends you."
 
+END OF CHAPTER ONE
